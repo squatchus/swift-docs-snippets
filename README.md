@@ -1,6 +1,6 @@
-# The Basics¶
-## Constants and Variables¶
-### Declaring Constants and Variables¶
+# The Basics
+## Constants and Variables
+### Declaring Constants and Variables
 
 ```Swift
 let maximumNumberOfLoginAttempts = 10
@@ -14,7 +14,7 @@ var x = 0.0, y = 0.0, z = 0.0
 
 ```
 
-### Type Annotations¶
+### Type Annotations
 
 ```Swift
 var welcomeMessage: String
@@ -33,7 +33,7 @@ var red, green, blue: Double
 
 ```
 
-### Naming Constants and Variables¶
+### Naming Constants and Variables
 
 ```Swift
 let π = 3.14159
@@ -58,7 +58,7 @@ languageName = "Swift++"
 
 ```
 
-### Printing Constants and Variables¶
+### Printing Constants and Variables
 
 ```Swift
 print(friendlyWelcome)
@@ -73,7 +73,7 @@ print("The current value of friendlyWelcome is \(friendlyWelcome)")
 
 ```
 
-## Comments¶
+## Comments
 
 ```Swift
 // This is a comment.
@@ -95,7 +95,7 @@ This is the end of the first multiline comment. */
 
 ```
 
-## Semicolons¶
+## Semicolons
 
 ```Swift
 let cat = "🐱"; print(cat)
@@ -103,8 +103,8 @@ let cat = "🐱"; print(cat)
 
 ```
 
-## Integers¶
-### Integer Bounds¶
+## Integers
+### Integer Bounds
 
 ```Swift
 let minValue = UInt8.min  // minValue is equal to 0, and is of type UInt8
@@ -112,10 +112,10 @@ let maxValue = UInt8.max  // maxValue is equal to 255, and is of type UInt8
 
 ```
 
-### Int¶
-### UInt¶
-## Floating-Point Numbers¶
-## Type Safety and Type Inference¶
+### Int
+### UInt
+## Floating-Point Numbers
+## Type Safety and Type Inference
 
 ```Swift
 let meaningOfLife = 42
@@ -137,7 +137,7 @@ let anotherPi = 3 + 0.14159
 
 ```
 
-## Numeric Literals¶
+## Numeric Literals
 
 ```Swift
 let decimalInteger = 17
@@ -163,8 +163,8 @@ let justOverOneMillion = 1_000_000.000_000_1
 
 ```
 
-## Numeric Type Conversion¶
-### Integer Conversion¶
+## Numeric Type Conversion
+### Integer Conversion
 
 ```Swift
 let cannotBeNegative: UInt8 = -1
@@ -183,7 +183,7 @@ let twoThousandAndOne = twoThousand + UInt16(one)
 
 ```
 
-### Integer and Floating-Point Conversion¶
+### Integer and Floating-Point Conversion
 
 ```Swift
 let three = 3
@@ -200,7 +200,7 @@ let integerPi = Int(pi)
 
 ```
 
-## Type Aliases¶
+## Type Aliases
 
 ```Swift
 typealias AudioSample = UInt16
@@ -214,7 +214,7 @@ var maxAmplitudeFound = AudioSample.min
 
 ```
 
-## Booleans¶
+## Booleans
 
 ```Swift
 let orangesAreOrange = true
@@ -251,7 +251,7 @@ if i == 1 {
 
 ```
 
-## Tuples¶
+## Tuples
 
 ```Swift
 let http404Error = (404, "Not Found")
@@ -301,7 +301,7 @@ print("The status message is \(http200Status.description)")
 
 ```
 
-## Optionals¶
+## Optionals
 
 ```Swift
 let possibleNumber = "123"
@@ -310,7 +310,7 @@ let convertedNumber = Int(possibleNumber)
 
 ```
 
-### nil¶
+### nil
 
 ```Swift
 var serverResponseCode: Int? = 404
@@ -327,7 +327,7 @@ var surveyAnswer: String?
 
 ```
 
-### If Statements and Forced Unwrapping¶
+### If Statements and Forced Unwrapping
 
 ```Swift
 if convertedNumber != nil {
@@ -346,7 +346,7 @@ if convertedNumber != nil {
 
 ```
 
-### Optional Binding¶
+### Optional Binding
 
 ```Swift
 if let actualNumber = Int(possibleNumber) {
@@ -376,7 +376,7 @@ if let firstNumber = Int("4") {
 
 ```
 
-### Implicitly Unwrapped Optionals¶
+### Implicitly Unwrapped Optionals
 
 ```Swift
 let possibleString: String? = "An optional string."
@@ -405,7 +405,7 @@ if let definiteString = assumedString {
 
 ```
 
-## Error Handling¶
+## Error Handling
 
 ```Swift
 func canThrowAnError() throws {
@@ -442,8 +442,8 @@ do {
 
 ```
 
-## Assertions and Preconditions¶
-### Debugging with Assertions¶
+## Assertions and Preconditions
+### Debugging with Assertions
 
 ```Swift
 let age = -3
@@ -470,7 +470,7 @@ if age > 10 {
 
 ```
 
-### Enforcing Preconditions¶
+### Enforcing Preconditions
 
 ```Swift
 // In the implementation of a subscript...
