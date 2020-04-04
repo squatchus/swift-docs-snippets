@@ -1,12 +1,12 @@
 # Inheritance
 * [Inheritance](../master/chapters/Inheritance.md#inheritance)
-[ - Defining a Base Class](../master/chapters/Inheritance.md#defining-a-base-class)
-[ - Subclassing](../master/chapters/Inheritance.md#subclassing)
-[ - Overriding](../master/chapters/Inheritance.md#overriding)
-[ - - Accessing Superclass Methods, Properties, and Subscripts](../chapters/Inheritance.md#accessing-superclass-methods-properties-and-subscripts)
-[ - - Overriding Methods](../chapters/Inheritance.md#overriding-methods)
-[ - - Overriding Properties](../chapters/Inheritance.md#overriding-properties)
-[ - Preventing Overrides](../master/chapters/Inheritance.md#preventing-overrides)
+* [ - Defining a Base Class](../master/chapters/Inheritance.md#defining-a-base-class)
+* [ - Subclassing](../master/chapters/Inheritance.md#subclassing)
+* [ - Overriding](../master/chapters/Inheritance.md#overriding)
+* [ - - Accessing Superclass Methods, Properties, and Subscripts](../chapters/Inheritance.md#accessing-superclass-methods-properties-and-subscripts)
+* [ - - Overriding Methods](../chapters/Inheritance.md#overriding-methods)
+* [ - - Overriding Properties](../chapters/Inheritance.md#overriding-properties)
+* [ - Preventing Overrides](../master/chapters/Inheritance.md#preventing-overrides)
 
 # Inheritance
 

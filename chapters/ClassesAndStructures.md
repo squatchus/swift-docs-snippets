@@ -1,14 +1,14 @@
 # Structures and Classes
 * [Structures and Classes](../master/chapters/ClassesAndStructures.md#structures-and-classes)
-[ - Comparing Structures and Classes](../master/chapters/ClassesAndStructures.md#comparing-structures-and-classes)
-[ - - Definition Syntax](../chapters/ClassesAndStructures.md#definition-syntax)
-[ - - Structure and Class Instances](../chapters/ClassesAndStructures.md#structure-and-class-instances)
-[ - - Accessing Properties](../chapters/ClassesAndStructures.md#accessing-properties)
-[ - - Memberwise Initializers for Structure Types](../chapters/ClassesAndStructures.md#memberwise-initializers-for-structure-types)
-[ - Structures and Enumerations Are Value Types](../master/chapters/ClassesAndStructures.md#structures-and-enumerations-are-value-types)
-[ - Classes Are Reference Types](../master/chapters/ClassesAndStructures.md#classes-are-reference-types)
-[ - - Identity Operators](../chapters/ClassesAndStructures.md#identity-operators)
-[ - - Pointers](../chapters/ClassesAndStructures.md#pointers)
+* [ - Comparing Structures and Classes](../master/chapters/ClassesAndStructures.md#comparing-structures-and-classes)
+* [ - - Definition Syntax](../chapters/ClassesAndStructures.md#definition-syntax)
+* [ - - Structure and Class Instances](../chapters/ClassesAndStructures.md#structure-and-class-instances)
+* [ - - Accessing Properties](../chapters/ClassesAndStructures.md#accessing-properties)
+* [ - - Memberwise Initializers for Structure Types](../chapters/ClassesAndStructures.md#memberwise-initializers-for-structure-types)
+* [ - Structures and Enumerations Are Value Types](../master/chapters/ClassesAndStructures.md#structures-and-enumerations-are-value-types)
+* [ - Classes Are Reference Types](../master/chapters/ClassesAndStructures.md#classes-are-reference-types)
+* [ - - Identity Operators](../chapters/ClassesAndStructures.md#identity-operators)
+* [ - - Pointers](../chapters/ClassesAndStructures.md#pointers)
 
 # Structures and Classes
 

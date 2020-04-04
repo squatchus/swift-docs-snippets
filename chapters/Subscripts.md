@@ -1,9 +1,9 @@
 # Subscripts
 * [Subscripts](../master/chapters/Subscripts.md#subscripts)
-[ - Subscript Syntax](../master/chapters/Subscripts.md#subscript-syntax)
-[ - Subscript Usage](../master/chapters/Subscripts.md#subscript-usage)
-[ - Subscript Options](../master/chapters/Subscripts.md#subscript-options)
-[ - Type Subscripts](../master/chapters/Subscripts.md#type-subscripts)
+* [ - Subscript Syntax](../master/chapters/Subscripts.md#subscript-syntax)
+* [ - Subscript Usage](../master/chapters/Subscripts.md#subscript-usage)
+* [ - Subscript Options](../master/chapters/Subscripts.md#subscript-options)
+* [ - Type Subscripts](../master/chapters/Subscripts.md#type-subscripts)
 
 # Subscripts
 

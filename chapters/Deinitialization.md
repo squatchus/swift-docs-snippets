@@ -1,7 +1,7 @@
 # Deinitialization
 * [Deinitialization](../master/chapters/Deinitialization.md#deinitialization)
-[ - How Deinitialization Works](../master/chapters/Deinitialization.md#how-deinitialization-works)
-[ - Deinitializers in Action](../master/chapters/Deinitialization.md#deinitializers-in-action)
+* [ - How Deinitialization Works](../master/chapters/Deinitialization.md#how-deinitialization-works)
+* [ - Deinitializers in Action](../master/chapters/Deinitialization.md#deinitializers-in-action)
 
 # Deinitialization
 

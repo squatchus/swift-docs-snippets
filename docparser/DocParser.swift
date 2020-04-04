@@ -109,10 +109,10 @@ class DocParser {
                         chapter.toc += "* [\(content)](../master/chapters/\(chapter.fileName)#\(link))\n"
                         chapter.content += "# \(content)\n\n"
                     } else if node.tagName == "h2" {
-                        chapter.toc += "[ - \(content)](../master/chapters/\(chapter.fileName)#\(link))\n"
+                        chapter.toc += "* [ - \(content)](../master/chapters/\(chapter.fileName)#\(link))\n"
                         chapter.content += "## \(content)\n\n"
                     } else if node.tagName == "h3" {
-                        chapter.toc += "[ - - \(content)](../chapters/\(chapter.fileName)#\(link))\n"
+                        chapter.toc += "* [ - - \(content)](../chapters/\(chapter.fileName)#\(link))\n"
                         chapter.content += "### \(content)\n\n"
                     }
                 } else {

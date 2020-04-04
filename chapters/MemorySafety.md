@@ -1,10 +1,10 @@
 # Memory Safety
 * [Memory Safety](../master/chapters/MemorySafety.md#memory-safety)
-[ - Understanding Conflicting Access to Memory](../master/chapters/MemorySafety.md#understanding-conflicting-access-to-memory)
-[ - - Characteristics of Memory Access](../chapters/MemorySafety.md#characteristics-of-memory-access)
-[ - Conflicting Access to In-Out Parameters](../master/chapters/MemorySafety.md#conflicting-access-to-in-out-parameters)
-[ - Conflicting Access to self in Methods](../master/chapters/MemorySafety.md#conflicting-access-to-self-in-methods)
-[ - Conflicting Access to Properties](../master/chapters/MemorySafety.md#conflicting-access-to-properties)
+* [ - Understanding Conflicting Access to Memory](../master/chapters/MemorySafety.md#understanding-conflicting-access-to-memory)
+* [ - - Characteristics of Memory Access](../chapters/MemorySafety.md#characteristics-of-memory-access)
+* [ - Conflicting Access to In-Out Parameters](../master/chapters/MemorySafety.md#conflicting-access-to-in-out-parameters)
+* [ - Conflicting Access to self in Methods](../master/chapters/MemorySafety.md#conflicting-access-to-self-in-methods)
+* [ - Conflicting Access to Properties](../master/chapters/MemorySafety.md#conflicting-access-to-properties)
 
 # Memory Safety
 
