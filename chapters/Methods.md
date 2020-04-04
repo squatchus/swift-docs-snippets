@@ -1,10 +1,10 @@
-# Methods
-* [Methods](../master/chapters/Methods.md#methods)
-* [ - Instance Methods](../master/chapters/Methods.md#instance-methods)
+# Table of contents
+* [Methods](../chapters/Methods.md#methods)
+* [ - Instance Methods](../chapters/Methods.md#instance-methods)
 * [ - - The self Property](../chapters/Methods.md#the-self-property)
 * [ - - Modifying Value Types from Within Instance Methods](../chapters/Methods.md#modifying-value-types-from-within-instance-methods)
 * [ - - Assigning to self Within a Mutating Method](../chapters/Methods.md#assigning-to-self-within-a-mutating-method)
-* [ - Type Methods](../master/chapters/Methods.md#type-methods)
+* [ - Type Methods](../chapters/Methods.md#type-methods)
 
 # Methods
 

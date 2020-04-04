@@ -1,7 +1,7 @@
-# Nested Types
-* [Nested Types](../master/chapters/NestedTypes.md#nested-types)
-* [ - Nested Types in Action](../master/chapters/NestedTypes.md#nested-types-in-action)
-* [ - Referring to Nested Types](../master/chapters/NestedTypes.md#referring-to-nested-types)
+# Table of contents
+* [Nested Types](../chapters/NestedTypes.md#nested-types)
+* [ - Nested Types in Action](../chapters/NestedTypes.md#nested-types-in-action)
+* [ - Referring to Nested Types](../chapters/NestedTypes.md#referring-to-nested-types)
 
 # Nested Types
 

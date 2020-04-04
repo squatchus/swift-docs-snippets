@@ -1,23 +1,23 @@
-# Functions
-* [Functions](../master/chapters/Functions.md#functions)
-* [ - Defining and Calling Functions](../master/chapters/Functions.md#defining-and-calling-functions)
-* [ - Function Parameters and Return Values](../master/chapters/Functions.md#function-parameters-and-return-values)
+# Table of contents
+* [Functions](../chapters/Functions.md#functions)
+* [ - Defining and Calling Functions](../chapters/Functions.md#defining-and-calling-functions)
+* [ - Function Parameters and Return Values](../chapters/Functions.md#function-parameters-and-return-values)
 * [ - - Functions Without Parameters](../chapters/Functions.md#functions-without-parameters)
 * [ - - Functions With Multiple Parameters](../chapters/Functions.md#functions-with-multiple-parameters)
 * [ - - Functions Without Return Values](../chapters/Functions.md#functions-without-return-values)
 * [ - - Functions with Multiple Return Values](../chapters/Functions.md#functions-with-multiple-return-values)
 * [ - - Functions With an Implicit Return](../chapters/Functions.md#functions-with-an-implicit-return)
-* [ - Function Argument Labels and Parameter Names](../master/chapters/Functions.md#function-argument-labels-and-parameter-names)
+* [ - Function Argument Labels and Parameter Names](../chapters/Functions.md#function-argument-labels-and-parameter-names)
 * [ - - Specifying Argument Labels](../chapters/Functions.md#specifying-argument-labels)
 * [ - - Omitting Argument Labels](../chapters/Functions.md#omitting-argument-labels)
 * [ - - Default Parameter Values](../chapters/Functions.md#default-parameter-values)
 * [ - - Variadic Parameters](../chapters/Functions.md#variadic-parameters)
 * [ - - In-Out Parameters](../chapters/Functions.md#in-out-parameters)
-* [ - Function Types](../master/chapters/Functions.md#function-types)
+* [ - Function Types](../chapters/Functions.md#function-types)
 * [ - - Using Function Types](../chapters/Functions.md#using-function-types)
 * [ - - Function Types as Parameter Types](../chapters/Functions.md#function-types-as-parameter-types)
 * [ - - Function Types as Return Types](../chapters/Functions.md#function-types-as-return-types)
-* [ - Nested Functions](../master/chapters/Functions.md#nested-functions)
+* [ - Nested Functions](../chapters/Functions.md#nested-functions)
 
 # Functions
 

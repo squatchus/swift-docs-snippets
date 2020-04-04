@@ -1,9 +1,9 @@
-# Type Casting
-* [Type Casting](../master/chapters/TypeCasting.md#type-casting)
-* [ - Defining a Class Hierarchy for Type Casting](../master/chapters/TypeCasting.md#defining-a-class-hierarchy-for-type-casting)
-* [ - Checking Type](../master/chapters/TypeCasting.md#checking-type)
-* [ - Downcasting](../master/chapters/TypeCasting.md#downcasting)
-* [ - Type Casting for Any and AnyObject](../master/chapters/TypeCasting.md#type-casting-for-any-and-anyobject)
+# Table of contents
+* [Type Casting](../chapters/TypeCasting.md#type-casting)
+* [ - Defining a Class Hierarchy for Type Casting](../chapters/TypeCasting.md#defining-a-class-hierarchy-for-type-casting)
+* [ - Checking Type](../chapters/TypeCasting.md#checking-type)
+* [ - Downcasting](../chapters/TypeCasting.md#downcasting)
+* [ - Type Casting for Any and AnyObject](../chapters/TypeCasting.md#type-casting-for-any-and-anyobject)
 
 # Type Casting
 

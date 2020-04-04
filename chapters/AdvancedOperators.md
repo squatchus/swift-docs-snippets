@@ -1,19 +1,19 @@
-# Advanced Operators
-* [Advanced Operators](../master/chapters/AdvancedOperators.md#advanced-operators)
-* [ - Bitwise Operators](../master/chapters/AdvancedOperators.md#bitwise-operators)
+# Table of contents
+* [Advanced Operators](../chapters/AdvancedOperators.md#advanced-operators)
+* [ - Bitwise Operators](../chapters/AdvancedOperators.md#bitwise-operators)
 * [ - - Bitwise NOT Operator](../chapters/AdvancedOperators.md#bitwise-not-operator)
 * [ - - Bitwise AND Operator](../chapters/AdvancedOperators.md#bitwise-and-operator)
 * [ - - Bitwise OR Operator](../chapters/AdvancedOperators.md#bitwise-or-operator)
 * [ - - Bitwise XOR Operator](../chapters/AdvancedOperators.md#bitwise-xor-operator)
 * [ - - Bitwise Left and Right Shift Operators](../chapters/AdvancedOperators.md#bitwise-left-and-right-shift-operators)
-* [ - Overflow Operators](../master/chapters/AdvancedOperators.md#overflow-operators)
+* [ - Overflow Operators](../chapters/AdvancedOperators.md#overflow-operators)
 * [ - - Value Overflow](../chapters/AdvancedOperators.md#value-overflow)
-* [ - Precedence and Associativity](../master/chapters/AdvancedOperators.md#precedence-and-associativity)
-* [ - Operator Methods](../master/chapters/AdvancedOperators.md#operator-methods)
+* [ - Precedence and Associativity](../chapters/AdvancedOperators.md#precedence-and-associativity)
+* [ - Operator Methods](../chapters/AdvancedOperators.md#operator-methods)
 * [ - - Prefix and Postfix Operators](../chapters/AdvancedOperators.md#prefix-and-postfix-operators)
 * [ - - Compound Assignment Operators](../chapters/AdvancedOperators.md#compound-assignment-operators)
 * [ - - Equivalence Operators](../chapters/AdvancedOperators.md#equivalence-operators)
-* [ - Custom Operators](../master/chapters/AdvancedOperators.md#custom-operators)
+* [ - Custom Operators](../chapters/AdvancedOperators.md#custom-operators)
 * [ - - Precedence for Custom Infix Operators](../chapters/AdvancedOperators.md#precedence-for-custom-infix-operators)
 
 # Advanced Operators

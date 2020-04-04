@@ -1,8 +1,8 @@
-# Opaque Types
-* [Opaque Types](../master/chapters/OpaqueTypes.md#opaque-types)
-* [ - The Problem That Opaque Types Solve](../master/chapters/OpaqueTypes.md#the-problem-that-opaque-types-solve)
-* [ - Returning an Opaque Type](../master/chapters/OpaqueTypes.md#returning-an-opaque-type)
-* [ - Differences Between Opaque Types and Protocol Types](../master/chapters/OpaqueTypes.md#differences-between-opaque-types-and-protocol-types)
+# Table of contents
+* [Opaque Types](../chapters/OpaqueTypes.md#opaque-types)
+* [ - The Problem That Opaque Types Solve](../chapters/OpaqueTypes.md#the-problem-that-opaque-types-solve)
+* [ - Returning an Opaque Type](../chapters/OpaqueTypes.md#returning-an-opaque-type)
+* [ - Differences Between Opaque Types and Protocol Types](../chapters/OpaqueTypes.md#differences-between-opaque-types-and-protocol-types)
 
 # Opaque Types
 

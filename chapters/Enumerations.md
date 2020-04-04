@@ -1,13 +1,13 @@
-# Enumerations
-* [Enumerations](../master/chapters/Enumerations.md#enumerations)
-* [ - Enumeration Syntax](../master/chapters/Enumerations.md#enumeration-syntax)
-* [ - Matching Enumeration Values with a Switch Statement](../master/chapters/Enumerations.md#matching-enumeration-values-with-a-switch-statement)
-* [ - Iterating over Enumeration Cases](../master/chapters/Enumerations.md#iterating-over-enumeration-cases)
-* [ - Associated Values](../master/chapters/Enumerations.md#associated-values)
-* [ - Raw Values](../master/chapters/Enumerations.md#raw-values)
+# Table of contents
+* [Enumerations](../chapters/Enumerations.md#enumerations)
+* [ - Enumeration Syntax](../chapters/Enumerations.md#enumeration-syntax)
+* [ - Matching Enumeration Values with a Switch Statement](../chapters/Enumerations.md#matching-enumeration-values-with-a-switch-statement)
+* [ - Iterating over Enumeration Cases](../chapters/Enumerations.md#iterating-over-enumeration-cases)
+* [ - Associated Values](../chapters/Enumerations.md#associated-values)
+* [ - Raw Values](../chapters/Enumerations.md#raw-values)
 * [ - - Implicitly Assigned Raw Values](../chapters/Enumerations.md#implicitly-assigned-raw-values)
 * [ - - Initializing from a Raw Value](../chapters/Enumerations.md#initializing-from-a-raw-value)
-* [ - Recursive Enumerations](../master/chapters/Enumerations.md#recursive-enumerations)
+* [ - Recursive Enumerations](../chapters/Enumerations.md#recursive-enumerations)
 
 # Enumerations
 

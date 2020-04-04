@@ -1,12 +1,12 @@
-# Extensions
-* [Extensions](../master/chapters/Extensions.md#extensions)
-* [ - Extension Syntax](../master/chapters/Extensions.md#extension-syntax)
-* [ - Computed Properties](../master/chapters/Extensions.md#computed-properties)
-* [ - Initializers](../master/chapters/Extensions.md#initializers)
-* [ - Methods](../master/chapters/Extensions.md#methods)
+# Table of contents
+* [Extensions](../chapters/Extensions.md#extensions)
+* [ - Extension Syntax](../chapters/Extensions.md#extension-syntax)
+* [ - Computed Properties](../chapters/Extensions.md#computed-properties)
+* [ - Initializers](../chapters/Extensions.md#initializers)
+* [ - Methods](../chapters/Extensions.md#methods)
 * [ - - Mutating Instance Methods](../chapters/Extensions.md#mutating-instance-methods)
-* [ - Subscripts](../master/chapters/Extensions.md#subscripts)
-* [ - Nested Types](../master/chapters/Extensions.md#nested-types)
+* [ - Subscripts](../chapters/Extensions.md#subscripts)
+* [ - Nested Types](../chapters/Extensions.md#nested-types)
 
 # Extensions
 

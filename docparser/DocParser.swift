@@ -82,9 +82,8 @@ class DocParser {
     
     fileprivate func renderChapters() {
         for chapter in chapters {
-            let title = chapter.title
             let name = chapter.url.lastPathComponent.replacing(dict: ["html": "md"])
-            let content = "# \(title)\n"+"\(chapter.toc)\n"+"\(chapter.content)"
+            let content = "# Table of contents\n"+"\(chapter.toc)\n"+"\(chapter.content)"
 
             let fileURL = #file.asFileURL.replacingLast(k: 2, with: ["chapters", name])
             try! content.write(to: fileURL, atomically: true, encoding: .utf8)
@@ -94,22 +93,25 @@ class DocParser {
     fileprivate func parse(_ chapter: Chapter, completion: @escaping () -> ()) {
         let url = chapter.url
         if let doc = try? Kanna.HTML(url: url, encoding: .utf8) {
-            let section = doc.xpath("//div[@class='section']")[0]
             var occurance = 0
+            let section = doc.xpath("//div[@class='section']")[0]
             for node in section.xpath("//h1 | //h2 | //h3 | //div[@class='highlight-swift notranslate']") {
                 // skip first 2
                 occurance += 1
-                if occurance <= 2 { continue }
+                if occurance <= 2 {
+                    print("TFLog: skip - [\(node.text!)]")
+                    continue
+                }
                 
                 let content = node.text!.replacing(dict: ["¶": ""]).trimmed()
                 let link = content.replacing(dict: [ " ": "-", ",": ""]).lowercased()
 
                 if ["h1", "h2", "h3"].contains(node.tagName) {
                     if node.tagName == "h1" {
-                        chapter.toc += "* [\(content)](../master/chapters/\(chapter.fileName)#\(link))\n"
+                        chapter.toc += "* [\(content)](../chapters/\(chapter.fileName)#\(link))\n"
                         chapter.content += "# \(content)\n\n"
                     } else if node.tagName == "h2" {
-                        chapter.toc += "* [ - \(content)](../master/chapters/\(chapter.fileName)#\(link))\n"
+                        chapter.toc += "* [ - \(content)](../chapters/\(chapter.fileName)#\(link))\n"
                         chapter.content += "## \(content)\n\n"
                     } else if node.tagName == "h3" {
                         chapter.toc += "* [ - - \(content)](../chapters/\(chapter.fileName)#\(link))\n"

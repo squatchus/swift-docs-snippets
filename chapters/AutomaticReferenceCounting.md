@@ -1,14 +1,14 @@
-# Automatic Reference Counting
-* [Automatic Reference Counting](../master/chapters/AutomaticReferenceCounting.md#automatic-reference-counting)
-* [ - How ARC Works](../master/chapters/AutomaticReferenceCounting.md#how-arc-works)
-* [ - ARC in Action](../master/chapters/AutomaticReferenceCounting.md#arc-in-action)
-* [ - Strong Reference Cycles Between Class Instances](../master/chapters/AutomaticReferenceCounting.md#strong-reference-cycles-between-class-instances)
-* [ - Resolving Strong Reference Cycles Between Class Instances](../master/chapters/AutomaticReferenceCounting.md#resolving-strong-reference-cycles-between-class-instances)
+# Table of contents
+* [Automatic Reference Counting](../chapters/AutomaticReferenceCounting.md#automatic-reference-counting)
+* [ - How ARC Works](../chapters/AutomaticReferenceCounting.md#how-arc-works)
+* [ - ARC in Action](../chapters/AutomaticReferenceCounting.md#arc-in-action)
+* [ - Strong Reference Cycles Between Class Instances](../chapters/AutomaticReferenceCounting.md#strong-reference-cycles-between-class-instances)
+* [ - Resolving Strong Reference Cycles Between Class Instances](../chapters/AutomaticReferenceCounting.md#resolving-strong-reference-cycles-between-class-instances)
 * [ - - Weak References](../chapters/AutomaticReferenceCounting.md#weak-references)
 * [ - - Unowned References](../chapters/AutomaticReferenceCounting.md#unowned-references)
 * [ - - Unowned References and Implicitly Unwrapped Optional Properties](../chapters/AutomaticReferenceCounting.md#unowned-references-and-implicitly-unwrapped-optional-properties)
-* [ - Strong Reference Cycles for Closures](../master/chapters/AutomaticReferenceCounting.md#strong-reference-cycles-for-closures)
-* [ - Resolving Strong Reference Cycles for Closures](../master/chapters/AutomaticReferenceCounting.md#resolving-strong-reference-cycles-for-closures)
+* [ - Strong Reference Cycles for Closures](../chapters/AutomaticReferenceCounting.md#strong-reference-cycles-for-closures)
+* [ - Resolving Strong Reference Cycles for Closures](../chapters/AutomaticReferenceCounting.md#resolving-strong-reference-cycles-for-closures)
 * [ - - Defining a Capture List](../chapters/AutomaticReferenceCounting.md#defining-a-capture-list)
 * [ - - Weak and Unowned References](../chapters/AutomaticReferenceCounting.md#weak-and-unowned-references)
 

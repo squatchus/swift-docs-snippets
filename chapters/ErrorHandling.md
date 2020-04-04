@@ -1,12 +1,12 @@
-# Error Handling
-* [Error Handling](../master/chapters/ErrorHandling.md#error-handling)
-* [ - Representing and Throwing Errors](../master/chapters/ErrorHandling.md#representing-and-throwing-errors)
-* [ - Handling Errors](../master/chapters/ErrorHandling.md#handling-errors)
+# Table of contents
+* [Error Handling](../chapters/ErrorHandling.md#error-handling)
+* [ - Representing and Throwing Errors](../chapters/ErrorHandling.md#representing-and-throwing-errors)
+* [ - Handling Errors](../chapters/ErrorHandling.md#handling-errors)
 * [ - - Propagating Errors Using Throwing Functions](../chapters/ErrorHandling.md#propagating-errors-using-throwing-functions)
 * [ - - Handling Errors Using Do-Catch](../chapters/ErrorHandling.md#handling-errors-using-do-catch)
 * [ - - Converting Errors to Optional Values](../chapters/ErrorHandling.md#converting-errors-to-optional-values)
 * [ - - Disabling Error Propagation](../chapters/ErrorHandling.md#disabling-error-propagation)
-* [ - Specifying Cleanup Actions](../master/chapters/ErrorHandling.md#specifying-cleanup-actions)
+* [ - Specifying Cleanup Actions](../chapters/ErrorHandling.md#specifying-cleanup-actions)
 
 # Error Handling
 

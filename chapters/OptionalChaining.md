@@ -1,13 +1,13 @@
-# Optional Chaining
-* [Optional Chaining](../master/chapters/OptionalChaining.md#optional-chaining)
-* [ - Optional Chaining as an Alternative to Forced Unwrapping](../master/chapters/OptionalChaining.md#optional-chaining-as-an-alternative-to-forced-unwrapping)
-* [ - Defining Model Classes for Optional Chaining](../master/chapters/OptionalChaining.md#defining-model-classes-for-optional-chaining)
-* [ - Accessing Properties Through Optional Chaining](../master/chapters/OptionalChaining.md#accessing-properties-through-optional-chaining)
-* [ - Calling Methods Through Optional Chaining](../master/chapters/OptionalChaining.md#calling-methods-through-optional-chaining)
-* [ - Accessing Subscripts Through Optional Chaining](../master/chapters/OptionalChaining.md#accessing-subscripts-through-optional-chaining)
+# Table of contents
+* [Optional Chaining](../chapters/OptionalChaining.md#optional-chaining)
+* [ - Optional Chaining as an Alternative to Forced Unwrapping](../chapters/OptionalChaining.md#optional-chaining-as-an-alternative-to-forced-unwrapping)
+* [ - Defining Model Classes for Optional Chaining](../chapters/OptionalChaining.md#defining-model-classes-for-optional-chaining)
+* [ - Accessing Properties Through Optional Chaining](../chapters/OptionalChaining.md#accessing-properties-through-optional-chaining)
+* [ - Calling Methods Through Optional Chaining](../chapters/OptionalChaining.md#calling-methods-through-optional-chaining)
+* [ - Accessing Subscripts Through Optional Chaining](../chapters/OptionalChaining.md#accessing-subscripts-through-optional-chaining)
 * [ - - Accessing Subscripts of Optional Type](../chapters/OptionalChaining.md#accessing-subscripts-of-optional-type)
-* [ - Linking Multiple Levels of Chaining](../master/chapters/OptionalChaining.md#linking-multiple-levels-of-chaining)
-* [ - Chaining on Methods with Optional Return Values](../master/chapters/OptionalChaining.md#chaining-on-methods-with-optional-return-values)
+* [ - Linking Multiple Levels of Chaining](../chapters/OptionalChaining.md#linking-multiple-levels-of-chaining)
+* [ - Chaining on Methods with Optional Return Values](../chapters/OptionalChaining.md#chaining-on-methods-with-optional-return-values)
 
 # Optional Chaining
 

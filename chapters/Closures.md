@@ -1,17 +1,17 @@
-# Closures
-* [Closures](../master/chapters/Closures.md#closures)
-* [ - Closure Expressions](../master/chapters/Closures.md#closure-expressions)
+# Table of contents
+* [Closures](../chapters/Closures.md#closures)
+* [ - Closure Expressions](../chapters/Closures.md#closure-expressions)
 * [ - - The Sorted Method](../chapters/Closures.md#the-sorted-method)
 * [ - - Closure Expression Syntax](../chapters/Closures.md#closure-expression-syntax)
 * [ - - Inferring Type From Context](../chapters/Closures.md#inferring-type-from-context)
 * [ - - Implicit Returns from Single-Expression Closures](../chapters/Closures.md#implicit-returns-from-single-expression-closures)
 * [ - - Shorthand Argument Names](../chapters/Closures.md#shorthand-argument-names)
 * [ - - Operator Methods](../chapters/Closures.md#operator-methods)
-* [ - Trailing Closures](../master/chapters/Closures.md#trailing-closures)
-* [ - Capturing Values](../master/chapters/Closures.md#capturing-values)
-* [ - Closures Are Reference Types](../master/chapters/Closures.md#closures-are-reference-types)
-* [ - Escaping Closures](../master/chapters/Closures.md#escaping-closures)
-* [ - Autoclosures](../master/chapters/Closures.md#autoclosures)
+* [ - Trailing Closures](../chapters/Closures.md#trailing-closures)
+* [ - Capturing Values](../chapters/Closures.md#capturing-values)
+* [ - Closures Are Reference Types](../chapters/Closures.md#closures-are-reference-types)
+* [ - Escaping Closures](../chapters/Closures.md#escaping-closures)
+* [ - Autoclosures](../chapters/Closures.md#autoclosures)
 
 # Closures
 
