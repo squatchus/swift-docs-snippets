@@ -1,0 +1,6 @@
+module Pods_docparser {
+  umbrella header "Pods-docparser-umbrella.h"
+
+  export *
+  module * { export * }
+}
